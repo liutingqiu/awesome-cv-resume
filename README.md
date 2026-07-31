@@ -15,3 +15,10 @@ Get the complete pack: https://payhip.com/b/1aKkU
 LPPL - free to use, modify and share.
 
 ⭐ Star this repo if helpful!
+
+
+## ☕ Support
+
+If you find this project useful, consider supporting me on Ko-fi: [ko-fi.com/liutingqiu](https://ko-fi.com/liutingqiu)
+
+Also check out my digital products: [TianqiDigitalStudio on Payhip](https://payhip.com/TianqiDigitalStudio)
